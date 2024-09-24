@@ -1,32 +1,7 @@
 
 <!-- Github README -->
 
-<p align="center"><big><img src="https://img.shields.io/badge/🏄⛷️🌊🌐🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸⛽⛽⛽⛽⛽⛽🎮🎮🎮🎮🎮🔫🔫🔫🔫♾️♾️🐼🐼🐼☣️🏄⛷️⛷️⛷️🌊%20🐼♾️🧑‍💻- 𝘾𝙀𝙍𝙏𝙄𝙁𝙄𝙀𝘿 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙀𝙍-green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big>
-
-</i></b></h3>
-<h3 align="center">
-  <img src="https://i.imgur.com/Gw7jtD0.jpeg" width="25">
-  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙒𝙊𝙍𝙇𝘿&nbsp;
-  <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25">
-</h3>
-<img align="center" alt="line" src="https://i.imgur.com/X5UFFab.jpeg">
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=TOpPLUG-𝐓𝐄𝐂𝐇" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+PIRATES🏴‍☠️🥷🗽🧑‍💻🏂🐼🏄⛷️🌊;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+EXIST;YOU+ARE+PIRATES+;𝙒𝙀+ARE+COMMUNITY+BIG VILLA)](https://git.io/typing-svg)
-
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Hubdarkweb"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hubdarkweb&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
-</p>
-<p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Hubdarkweb/count.svg" alt="Visitors">
-</p>
-
-### INSTALL SCRIPT 
+ INSTALL SCRIPT 
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/emmkash2070/autoscript/main/genz.sh && chmod +x genz.sh && ./genz.sh
 
