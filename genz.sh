@@ -35,7 +35,7 @@ clear;clear;clear
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "  Script : ${GRAY} BEST AUTO SCRIPT BY EMMKASHTECH ${NC}"
 echo -e "  Author : ${RED}EMMKASH TECHNOLOGIES KENYA ${NC}${YELLOW}${NC}"
-echo -e "  ©2024  : ${BLUE} WELCOME TO TECH WORLD ${NC}"
+echo -e "  ©2024  : ${BLUE} WELCOME TO  FREENET WORLD ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
@@ -91,7 +91,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/emmkash2070/autoscript/main/"
+    REPO="https://raw.githubusercontent.com/manuu851/vpsscript/main/"
 
 ####
 start=$(date +%s)
@@ -278,7 +278,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/emmkash2070/autoscript/main/keygen"
+izinsc="https://raw.githubusercontent.com/manuu851/vpsscript/main/keygen"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
